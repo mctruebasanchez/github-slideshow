@@ -2,7 +2,7 @@
 
 ---
 
-layout:slide
+hola caracola
 
 title: "welcome to our second slide!"
 
